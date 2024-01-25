@@ -1,0 +1,26 @@
+.logo-img{
+margin-top: -100px;
+margin-bottom: auto;
+width: 250px;
+height: 250px;
+}
+.text-logo{
+    margin-top: -70px;
+    margin-bottom: auto; 
+    margin-left: 50px;
+}
+
+.media-links{
+    margin-top: 10px;
+    margin-bottom: auto; 
+    margin-left: 50px;
+
+}
+.media-links li a:hover{
+    color: #BE4E6B !important;
+
+}
+.logo-media{
+    display: flex !important;
+    flex-direction: column !important;
+}
