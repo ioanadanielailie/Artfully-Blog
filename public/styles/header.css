@@ -17,13 +17,13 @@
   padding-right:0px !important ;
 }
 
-li a {
+/* li a {
   display: block;
   color: #000000 !important;
   text-align: center;
   padding: 10px 40px !important;
   text-decoration: none;
-}
+} */
 
 li a:hover {
   color: #BE4E6B !important;

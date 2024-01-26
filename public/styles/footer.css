@@ -24,3 +24,7 @@ height: 250px;
     display: flex !important;
     flex-direction: column !important;
 }
+
+.footer-style li a:hover{
+    color: #BE4E6B !important;
+}
