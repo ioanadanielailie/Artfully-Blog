@@ -8,6 +8,8 @@
 .category-post a{
     color: #BE4E6B !important;
 }
-.line{
-    color: #BE4E6B !important;
-}
+.article{
+    height: 100% dvw;
+    width: 96 dvw;
+    object-fit:contain;
+  }

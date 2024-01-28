@@ -1,0 +1,11 @@
+.article{
+    height: 100% dvw;
+    width: 96 dvw;
+    object-fit:contain;
+  }
+  .category-post strong{
+    color: #BE4E6B !important;
+}
+.category-post a{
+    color: #BE4E6B !important;
+}
